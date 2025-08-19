@@ -75,7 +75,7 @@ Example execution shows improvement of solutions over iterations.
 
 ## 👨‍💻 Author
 
-- Said BELAID
+- [Said BELAID](https://www.linkedin.com/in/said-be/)
 
 Université M’hamed Bougarra – Boumerdes  
 Département de Mathématique | Faculté des sciences  
